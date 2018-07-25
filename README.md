@@ -14,6 +14,8 @@
 ## iOS
 
 ## Android
+- [Naming](android/naming.md)
+- [.gitignore]
 
 ## React Native
 
