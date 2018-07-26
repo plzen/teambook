@@ -19,6 +19,7 @@
 - [Архитектурные подходы](android/architecture.md)
 - [Code Style](android/codestyle.md)
 - [.gitignore](android/.gitignore)
+- [Используемые библиотеки](android/libraries.md)
 
 ## React Native
 
