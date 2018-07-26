@@ -16,6 +16,7 @@
 ## Android
 - [Naming](android/naming.md)
 - [.gitignore](android/.gitignore)
+- [Архитектурные подходы](android/architecture.md)
 
 ## React Native
 
