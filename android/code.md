@@ -8,13 +8,13 @@ Presentation - модуль с пользовательским интерфей
 
 Пример структуры Presentation модуля:
 `
--MainApplication.kt
--di
--ui
---feed
----adapter
----item
----viewmodel
----FeedActivity.kt
----FeedFragment.kt
+-MainApplication.kt\
+-di\
+-ui\
+--feed\
+---adapter\
+---item\
+---viewmodel\
+---FeedActivity.kt\
+---FeedFragment.kt\
 `
