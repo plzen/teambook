@@ -21,10 +21,10 @@
 | \<fragment />                   | @+id/signInFragment        |
 | \<FrameLayout /> etc.           | @+id/infoContainer         | 
 | \<TextView />                   | @+id/currencyLabelTextView | 
-| \<Button />                     | @+id/Button                | 
+| \<Button />                     | @+id/signInButton          | 
 | \<TextInputLayout />            | @+id/emailInputLayout      | 
 | \<TextInput /> or \<EditText /> | @+id/emailInput            | 
-| \<ImageView />                  | @+id/likeImage             | 
+| \<ImageView />                  | @+id/likeImageView         | 
 | \<GradientView />               | @+id/gradientView          |
 
 ### Strings: 
@@ -64,7 +64,7 @@
 | Simple color      | \<color name="colorWhite">#FFFFFFFF\</color>            |
 | Translucent color | \<color name="colorWhiteTranslucent">#7FFFFFFF\</color> |
 
-В случае использования одинаковых цветов с разной прозрачностью необходимо использовать суффикс с величиной прозрачности в десятичной системе, к примеру: 
+В случае использования одинаковых цветов с разной прозрачностью необходимо использовать суффикс с величиной прозрачности в десятичной системе, к примеру:\ 
 `<color name="colorWhiteTranslucent50">#32FFFFFF</color>`
 
 ### Styles:
