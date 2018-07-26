@@ -15,7 +15,7 @@
 
 ## Android
 - [Naming](android/naming.md)
-- [.gitignore]
+- [.gitignore](android/.gitignore)
 
 ## React Native
 

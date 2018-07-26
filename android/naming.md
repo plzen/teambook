@@ -64,7 +64,8 @@
 | Simple color      | \<color name="colorWhite">#FFFFFFFF\</color>            |
 | Translucent color | \<color name="colorWhiteTranslucent">#7FFFFFFF\</color> |
 
-В случае использования одинаковых цветов с разной прозрачностью необходимо использовать суффикс с величиной прозрачности в десятичной системе, к примеру: `<color name="colorWhiteTranslucent50">#32FFFFFF</color>`
+В случае использования одинаковых цветов с разной прозрачностью необходимо использовать суффикс с величиной прозрачности в десятичной системе, к примеру: 
+`<color name="colorWhiteTranslucent50">#32FFFFFF</color>`
 
 ### Styles:
 
