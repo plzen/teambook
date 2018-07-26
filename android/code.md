@@ -7,14 +7,14 @@ Data - модуль в котором находятся имплементац�
 Presentation - модуль с пользовательским интерфейсом, который через промежуточный слой (ViewModel) взаимодействует с данными.
 
 Пример структуры Presentation модуля:
-`
--MainApplication.kt\
--di\
--ui\
---feed\
----adapter\
----item\
----viewmodel\
----FeedActivity.kt\
----FeedFragment.kt\
-`
+```
+-MainApplication.kt
+-di
+-ui
+--feed
+---adapter
+---item
+---viewmodel
+---FeedActivity.kt
+---FeedFragment.kt
+```
