@@ -14,6 +14,12 @@
 ## iOS
 
 ## Android
+- [Naming](android/naming.md)
+- [Организация кода](android/code.md)
+- [Архитектурные подходы](android/architecture.md)
+- [Code Style](android/codestyle.md)
+- [.gitignore](android/.gitignore)
+- [Используемые библиотеки](android/libraries.md)
 
 ## React Native
 
