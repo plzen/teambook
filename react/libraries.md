@@ -20,12 +20,14 @@
 - Кастомные иконки - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - Навигация - [React Navigation](https://reactnavigation.org)
 - Локализация - [react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n)
+- UI Компоненты - [Native Base](https://nativebase.io/)
+- Работа с формами - [formik](https://github.com/jaredpalmer/formik)
 
 ## Redux
 - Хранение стейта - [redux](https://redux.js.org), [redux-persist](https://github.com/rt2zz/redux-persist)
 - Связка React и Redux - [react-redux](https://redux.js.org/basics/usage-with-react)
 - Работа с формами - [redux-form](https://redux-form.com)
-- Side Effects - [redux-saga](https://redux-saga.js.org), [redux-thunk](https://github.com/reduxjs/redux-thunk), [redux-observable](https://redux-observable.js.org)
+- Side Effects - [redux-saga](https://redux-saga.js.org), [redux-thunk](https://github.com/reduxjs/redux-thunk), [redux-observable](https://redux-observable.js.org), [redux-logic](https://github.com/jeffbski/redux-logic)
 - Логирование стейта - [redux-logger](https://github.com/evgenyrodionov/redux-logger)
 
 ## Работа с сетью/API
@@ -34,7 +36,7 @@
 - JSON API Normalizer - [json-api-normalizer](https://github.com/yury-dymov/json-api-normalizer)
 
 ## Утилиты
-- Работа с датой/временем - [momentjs](https://momentjs.com)
+- Работа с датой/временем - [momentjs](https://momentjs.com), [date-fns](https://date-fns.org)
 - Функциональное программирование - [ramda](https://ramdajs.com)
 - Работа с массивами, числами, объектами, строками - [lodash](https://lodash.com). Также можно устанавливать только конкретный пакет, чтобы не тянуть всю библиотеку, типа _lodash.camelcase_
 - Работа с селекторами - [reselect](https://github.com/reduxjs/reselect)
